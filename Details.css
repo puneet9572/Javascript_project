@@ -1,0 +1,20 @@
+#newTodo{
+
+	width: 550px;
+}
+#todos{
+	list-style-type: none;
+	font-family: fantasy;
+}	
+.done:hover{
+	list-style-type: none;
+	text-decoration: line-through;
+	opacity: .5;
+	cursor: pointer;
+}
+
+ul li{
+
+	padding: 20px;
+}
+
